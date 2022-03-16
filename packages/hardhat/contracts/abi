@@ -1,0 +1,14 @@
+   function submit( string calldata url) public returns (uint256) {
+    function stake(uint targetId, uint amount) public {
+    function judge(uint targetId, uint8 place) public {
+    function getUrl(uint256 id) public view returns (string memory) {
+    function getPlace(uint256 id) public view returns (uint ) {
+    function _epoque() public view returns (uint256 ) {
+     * @dev Handles the receipt of a single ERC1155 token type. This function is
+     * (i.e. 0xf23a6e61, or its own function selector).
+    function onERC1155Received(
+     * @dev Handles the receipt of a multiple ERC1155 token types. This function
+     * (i.e. 0xbc197c81, or its own function selector).
+    function onERC1155BatchReceived(
+    function _quicksort(int left, int right) internal {
+    function _quicksort(uint[] storage arr, int left, int right) internal {
